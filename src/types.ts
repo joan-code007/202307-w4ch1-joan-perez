@@ -1,6 +1,6 @@
 export interface QuestionSection {
   id: number;
-  answer: string;
+  question: string;
 }
 
 export interface AnswerSection {
